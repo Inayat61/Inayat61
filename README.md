@@ -1,6 +1,9 @@
 # 💫 About Me:
-Web Based Blog Generator<br>MERN Stack Project<br>Frameworks<br>React.js, node.js, next.js, redux, express, bootstrap, CSS3, HTML <br>I am a Cricket Lover and Love to spend time alone.
+I’m a Full Stack Developer with 3 years of professional experience in Software Development. Currently I’m part of an agile development team where I’m in charge of developing highly scalable and reliable applications using Java, Spring Boot, MongoDB, Hikri, Hibernate, Java Spring, MySql, SqlYog, Jira and Git.
 
+My tech stack comprises **JavaScript, TypeScript, React.js, Node.js, Express.js, Next.js 13, MongoDB, Java, Spring Boot, Microservices, AWS, AWS Api Gateway, AWS EC2, AWS S3, Hikri, Hibernate, Java Spring, Jira, MySQL, PL/SQL, Agile Methodologies, Git, Jira, Clickup, TDD, jQuery, HTML, CSS, CI/CD, REST API, SOAP**.
+
+I am a highly motivated Full Stack Developer with a proven track record of delivering top-notch software solutions. I am eager to explore potential opportunities or collaborate with others on innovative projects. Please feel free to reach out to me to discuss how my skills and experience can help your team succeed.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/inayat.mug) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inayat-ali-mughal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ainayat865) 
